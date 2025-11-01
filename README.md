@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheETR
 - 👀 I’m interested in Codding / Exploits etc.
-- 🌱 I’m currently learning C++ and C.
+- 🌱 I’m currently learning JS and MatLab.
 - 💞️ I’m looking to collaborate on maybe some people that devolope our selves more with together?
 - 📫 How to reach me : Just try it I will see...
 
