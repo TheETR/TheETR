@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @TheETR
-- 👀 I’m interested in Codding / Exploits etc.
 - 🌱 I’m currently learning Java.
