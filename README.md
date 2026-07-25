@@ -17,14 +17,9 @@
 
 I'm an Electrical & Electronics Engineering student from Türkiye, working on software at the intersection of engineering, product design and ambitious systems architecture.
 
-I mainly build:
+I build AI-powered automation, real-time media tools, developer infrastructure and progression-focused game systems.
 
-- AI-powered automation systems
-- Real-time capture and media tooling
-- Backend infrastructure and developer tools
-- Game systems, progression mechanics and community platforms
-
-I prefer building complete products over isolated demos.
+I prefer complete products over isolated demos.
 
 ---
 
@@ -64,7 +59,7 @@ It is planned to eventually converge with **Continuum Neurotics** as part of a b
 
 ### [TheE's-DDW](https://github.com/TheETR/TheEs-DDW)
 
-A Windows-first personal domain lifecycle monitor built around RDAP, adaptive polling, verified drop signals, local alerts, optional Discord notifications and a startup watchdog.
+A Windows-first domain lifecycle monitor with adaptive RDAP polling, verified drop detection, local alerts and optional Discord notifications.
 
 `PowerShell` · `RDAP` · `Windows` · `SQLite` · `Discord Webhooks`
 
@@ -90,6 +85,7 @@ Tools and configurations for building maintainable Minecraft server environments
   <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=EAB308" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/MATLAB-111111?style=flat-square" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
