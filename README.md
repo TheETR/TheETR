@@ -63,11 +63,11 @@ A Windows-first domain lifecycle monitor with adaptive RDAP polling, verified dr
 
 `PowerShell` · `RDAP` · `Windows` · `SQLite` · `Discord Webhooks`
 
-### [FishAlchemy](https://github.com/TheETR/FishAlchemy)
+### [TheeDiscordMCP](https://github.com/TheETR/TheeDiscordMCP)
 
-A progression-focused fishing system for Minecraft, inspired by collection games and Terraria-style mechanics.
+A safety-gated local MCP server for inspecting and managing allowlisted Discord servers through Discord's official REST API.
 
-`Java` · `Paper` · `Game Systems` · `Progression Design`
+`TypeScript` · `Node.js` · `MCP` · `Discord REST API` · `Safety Controls`
 
 ### [ConfigStackMC](https://github.com/TheETR/ConfigStackMC)
 
