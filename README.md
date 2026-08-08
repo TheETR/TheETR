@@ -63,7 +63,7 @@ A Windows-first domain lifecycle monitor with adaptive RDAP polling, verified dr
 
 `PowerShell` · `RDAP` · `Windows` · `SQLite` · `Discord Webhooks`
 
-### [TheeDiscordMCP](https://github.com/TheETR/TheeDiscordMCP)
+### [TheeDiscordMCP](https://github.com/TheETR/Thee-Discord-MCP)
 
 A safety-gated local MCP server for inspecting and managing allowlisted Discord servers through Discord's official REST API.
 
