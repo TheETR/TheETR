@@ -2,10 +2,10 @@
 
 # TheETR
 
-### I build systems that refuse to stay small.
+### Im too obsessed with overengineering what I code
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=EAB308&center=true&vCenter=true&width=700&lines=Electrical+%26+Electronics+Engineering+Student;AI-powered+automation+systems;Real-time+media+and+developer+tools;Overengineering+ideas+until+they+reach+my+standards"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=EAB308&center=true&vCenter=true&width=700&lines=Triple+E+Student;AI+integrated+systems;Real-time+media+and+developer+tools;Coding+untill+they+reach+my+standards"
   alt="Typing SVG"
 />
 
